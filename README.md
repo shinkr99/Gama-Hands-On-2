@@ -1,2 +1,3 @@
 # Gama-Hands-On-2
-# Sound-Garden
+
+Projeto desenvolvido a partir de um desafio da Gama Academy!
